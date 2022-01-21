@@ -63,7 +63,8 @@
     "submit-and-go": "提交併訪問下一個挑戰",
     "go-to-next": "訪問下一個挑戰",
     "ask-later": "稍後問我",
-    "start-coding": "開始編碼！"
+    "start-coding": "開始編碼！",
+    "go-to-settings": "Go to settings to claim your certification"
   },
   "landing": {
     "big-heading-1": "免費學習編程",
@@ -293,8 +294,6 @@
     },
     "help-translate": "我們仍然在翻譯以下證書。",
     "help-translate-link": "幫助我們翻譯。",
-    "season-greetings-fcc": "Season's Greetings from the freeCodeCamp community 🎉",
-    "if-getting-value": "If you're getting a lot out of freeCodeCamp, now is a great time to donate to support our nonprofit's mission.",
     "project-preview-title": "下面是你將構建的項目的預覽"
   },
   "donate": {
@@ -360,7 +359,7 @@
     "one-time": "If you'd prefer to make one-time donations, you can support freeCodeCamp's mission whenever you have cash to spare. You can use <0>this link to donate whatever amount feels right through PayPal</0>.",
     "wire-transfer": "You can also send money to freeCodeCamp directly through a wire transfer. If you need our wire details, email Quincy at quincy@freecodecamp.org",
     "does-crypto": "Does freeCodeCamp accept donations in Bitcoin or other cryptocurrencies?",
-    "yes-crypto": "Yes, and we would welcome your cryptocurrency donations. Here are our wallet details:",
+    "yes-cryptocurrency": "Yes. Please email Quincy at quincy@freecodecamp.org and he can send you freeCodeCamp's wallet information. He can also provide you with a donation receipt if you need one for your taxes.",
     "can-check": "Can I mail a physical check?",
     "yes-check": "Yes, we would welcome a check. You can mail it to us at:",
     "how-matching-gift": "How can I set up matching gifts from my employer, or payroll deductions?",

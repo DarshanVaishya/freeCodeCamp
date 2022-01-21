@@ -63,7 +63,8 @@
     "submit-and-go": "Enviar e ir para o próximo desafio",
     "go-to-next": "Ir para o próximo desafio",
     "ask-later": "Pergunte-me depois",
-    "start-coding": "Comece a programar!"
+    "start-coding": "Comece a programar!",
+    "go-to-settings": "Go to settings to claim your certification"
   },
   "landing": {
     "big-heading-1": "Aprenda a programar — de graça.",
@@ -293,8 +294,6 @@
     },
     "help-translate": "Ainda estamos traduzindo as certificações a seguir.",
     "help-translate-link": "Ajude-nos a traduzir.",
-    "season-greetings-fcc": "Boas festas de fim de ano, da comunidade do freeCodeCamp 🎉",
-    "if-getting-value": "Se você está conseguindo tirar proveito do conteúdo do freeCodeCamp, agora é um ótimo momento para fazer sua doação e apoiar nossa missão sem fins lucrativos.",
     "project-preview-title": "Aqui está uma prévia do que você vai criar"
   },
   "donate": {
@@ -360,7 +359,7 @@
     "one-time": "Se você preferir fazer doações únicas, pode apoiar a missão do freeCodeCamp sempre que tiver dinheiro sobrando. Você pode usar <0>este link para doar qualquer quantia que sentir que vale a pena através do PayPal</0>.",
     "wire-transfer": "Você também pode enviar dinheiro para o freeCodeCamp diretamente por meio de uma transferência bancária. Se precisar dos nossos detalhes para transferência, envie e-mail para quincy@freecodecamp.org",
     "does-crypto": "O freeCodeCamp aceita doações em Bitcoin ou em outras criptomoedas?",
-    "yes-crypto": "Sim, e receberemos suas doações em criptomoedas com satisfação. Aqui estão os detalhes da nossa carteira:",
+    "yes-cryptocurrency": "Sim. Pedimos que envie um e-mail para o Quincy pelo endereço quincy@freecodecamp.org e ele pode enviar para você as informações de carteira do freeCodeCamp. Ele também pode lhe fornecer um recibo da doação se você precisar de um para seus impostos.",
     "can-check": "Posso enviar um cheque físico?",
     "yes-check": "Sim, receberemos cheques com satisfação. Você pode nos enviar cheques pelo correio pelo endereço:",
     "how-matching-gift": "Como eu posso configurar donativos correspondentes do meu empregador, ou deduções na folha de pagamento?",
